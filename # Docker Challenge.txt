@@ -1,0 +1,6 @@
+# Docker Challenge
+
+This repository contains the solutions for the Docker challenges. It includes:
+
+- A simple static page server (challenge1)
+- A NodeJS application with Docker compose (challenge2)
